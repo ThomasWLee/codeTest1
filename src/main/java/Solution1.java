@@ -64,15 +64,11 @@ public class Solution1 {
         solveCore(s, 2);
     }
 
-    public static void main(String[] args){
 
-//        Solution1 solution1 = new Solution1();
-
-
-
-
-        System.out.println("above test 1 ---------------------------");
-
-    }
+//    public static void main(String[] args){
+////        Solution1 solution1 = new Solution1();
+//        System.out.println("above test 1 ---------------------------");
+//
+//    }
 
 }
